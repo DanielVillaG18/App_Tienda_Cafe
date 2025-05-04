@@ -33,14 +33,17 @@ Asegúrate de tener **Node.js** y **npm** instalados en tu máquina. Si no los t
 
 cd App_Tienda_Cafe
 
+
 3. Instala las dependencias:
 
 ```bash
 npm install
 
+
 4. Ejecuta el servidor de desarrollo:
 
 ```bash
 npm start
+
 
 Esto abrirá la aplicación en tu navegador en http://localhost:3000.
