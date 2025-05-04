@@ -14,7 +14,8 @@
 - **Frontend**: React.js, React Router, Material UI.
 - **Gestión de estado**: React Hooks.
 - **Estilo**: CSS (con Material UI).
-
+  
+```markdown
 ## Instalación
 
 ### Requisitos previos
@@ -26,21 +27,22 @@ Asegúrate de tener **Node.js** y **npm** instalados en tu máquina. Si no los t
 
    ```bash
    git clone https://github.com/DanielVillaG18/App_Tienda_Cafe.git
-   
+
+```markdown
 2. **Navega a la carpeta del proyecto**:
 
   ```bash
-cd App_Tienda_Cafe
-
+  cd App_Tienda_Cafe
+```markdown
 3. **Instala las dependencias**:
 
   ```bash
-npm install
-
+   npm install
+```markdown
 4. **Ejecuta el servidor de desarrollo**:
 
   ```bash
-npm start
+   npm start
 
-
-**Esto abrirá la aplicación en tu navegador en http://localhost:3000.**
+```markdown
+   **Esto abrirá la aplicación en tu navegador en http://localhost:3000.**
