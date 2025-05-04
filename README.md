@@ -15,7 +15,6 @@
 - **Gestión de estado**: React Hooks.
 - **Estilo**: CSS (con Material UI).
   
-```markdown
 ## Instalación
 
 ### Requisitos previos
