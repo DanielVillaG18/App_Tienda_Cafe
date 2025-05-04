@@ -37,8 +37,8 @@ Asegúrate de tener **Node.js** y **npm** instalados en tu máquina. Si no los t
 3. **Instala las dependencias**:
 
   ```bash
-   npm install
-
+   npm install ```
+   
 
 4. **Ejecuta el servidor de desarrollo**:
 
