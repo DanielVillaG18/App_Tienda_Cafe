@@ -22,28 +22,26 @@ Asegúrate de tener **Node.js** y **npm** instalados en tu máquina. Si no los t
 
 ### Pasos para instalar y ejecutar el proyecto
 
-1. Clona el repositorio:
+1. **Clona el repositorio**:
 
    ```bash
    git clone https://github.com/DanielVillaG18/App_Tienda_Cafe.git
-   
-2. Navega a la carpeta del proyecto:
+Navega a la carpeta del proyecto:
 
-```bash
-
+bash
+Copiar
+Editar
 cd App_Tienda_Cafe
+Instala las dependencias:
 
-
-3. Instala las dependencias:
-
-```bash
+bash
+Copiar
+Editar
 npm install
+Ejecuta el servidor de desarrollo:
 
-
-4. Ejecuta el servidor de desarrollo:
-
-```bash
+bash
+Copiar
+Editar
 npm start
-
-
 Esto abrirá la aplicación en tu navegador en http://localhost:3000.
