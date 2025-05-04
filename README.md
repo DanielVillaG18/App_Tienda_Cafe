@@ -26,24 +26,23 @@ Asegúrate de tener **Node.js** y **npm** instalados en tu máquina. Si no los t
 
    ```bash
    git clone https://github.com/DanielVillaG18/App_Tienda_Cafe.git
-
+   ```
 
 2. **Navega a la carpeta del proyecto**:
 
-  ```bash
-  cd App_Tienda_Cafe
-
-
+    ```bash
+    cd App_Tienda_Cafe
+    ```
 3. **Instala las dependencias**:
 
-  ```bash
-   npm install ```
-   
-
+    ```bash
+    npm install
+    ```
 4. **Ejecuta el servidor de desarrollo**:
 
-  ```bash
-   npm start
+    ```bash
+    npm start
+    ```
 
+Esto abrirá la aplicación en tu navegador en http://localhost:3000.
 
-   **Esto abrirá la aplicación en tu navegador en http://localhost:3000.**
